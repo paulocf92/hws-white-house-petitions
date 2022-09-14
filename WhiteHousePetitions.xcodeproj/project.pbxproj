@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AC51FB4028D1F77B00AD47C7 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC51FB3F28D1F77B00AD47C7 /* Petition.swift */; };
 		AC51FB4228D1F7D000AD47C7 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC51FB4128D1F7D000AD47C7 /* Petitions.swift */; };
+		AC51FB4428D1FCAA00AD47C7 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC51FB4328D1FCAA00AD47C7 /* DetailViewController.swift */; };
 		ACF405FD28D108E5001EE8B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF405FC28D108E5001EE8B4 /* AppDelegate.swift */; };
 		ACF405FF28D108E5001EE8B4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF405FE28D108E5001EE8B4 /* SceneDelegate.swift */; };
 		ACF4060128D108E5001EE8B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF4060028D108E5001EE8B4 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		AC51FB3F28D1F77B00AD47C7 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 		AC51FB4128D1F7D000AD47C7 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		AC51FB4328D1FCAA00AD47C7 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		ACF405F928D108E5001EE8B4 /* WhiteHousePetitions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhiteHousePetitions.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACF405FC28D108E5001EE8B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACF405FE28D108E5001EE8B4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				ACF405FC28D108E5001EE8B4 /* AppDelegate.swift */,
 				ACF405FE28D108E5001EE8B4 /* SceneDelegate.swift */,
 				ACF4060028D108E5001EE8B4 /* ViewController.swift */,
+				AC51FB4328D1FCAA00AD47C7 /* DetailViewController.swift */,
 				AC51FB3F28D1F77B00AD47C7 /* Petition.swift */,
 				AC51FB4128D1F7D000AD47C7 /* Petitions.swift */,
 				ACF4060228D108E5001EE8B4 /* Main.storyboard */,
@@ -147,6 +150,7 @@
 				ACF4060128D108E5001EE8B4 /* ViewController.swift in Sources */,
 				AC51FB4028D1F77B00AD47C7 /* Petition.swift in Sources */,
 				ACF405FD28D108E5001EE8B4 /* AppDelegate.swift in Sources */,
+				AC51FB4428D1FCAA00AD47C7 /* DetailViewController.swift in Sources */,
 				ACF405FF28D108E5001EE8B4 /* SceneDelegate.swift in Sources */,
 				AC51FB4228D1F7D000AD47C7 /* Petitions.swift in Sources */,
 			);
